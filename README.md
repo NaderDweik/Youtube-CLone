@@ -3,6 +3,4 @@ As part of me practicing my front end skills, I made a youtube clone interface f
 
 
 ##Screenshots:
-
-![Uploading image.png…]()
-
+![Feature](https://imgur.com/a/OzzSyoC)
