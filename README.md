@@ -1,4 +1,3 @@
-Here you go bro, a **🔥 clean and professional README.md** for your YouTube Clone project 💯💥  
 
 ---
 
