@@ -39,8 +39,5 @@ A **fully responsive** YouTube interface **built from scratch** using **HTML & C
 
 💻 **Developed by:** [Nader Dweik](https://github.com/NaderDweik) 🚀  
 
-🔥 **If you like this project, drop a ⭐ on the repo!**  
-
 ---
 
-This README is **clean, structured, and engaging** while still **casual & fun** 😎 Let me know if you want any tweaks! 🚀
